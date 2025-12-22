@@ -27,13 +27,14 @@ This analysis helps identify:
 
 ## 📁 Project Structure
 
+'''
 retail-cashflow-analytics
 ├── data/ # Dataset
 ├── notebooks/ # Python analysis notebooks
 ├── sql/ # SQL-ready outputs (future)
 ├── screenshots/ # Dashboard screenshots
 └── README.md
-
+'''
 
 ---
 
