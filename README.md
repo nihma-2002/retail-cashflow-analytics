@@ -65,6 +65,15 @@ retail-cashflow-analytics/
 
 ---
 
+## 📸 Dashboard Preview
+
+![Executive Summary](screenshots/executive_summary.png)
+![Customer Risk](screenshots/customer_risk_table.png)
+![Aging Distribution](screenshots/aging_distribution.png)
+![Key Insights](screenshots/key_insights.png)
+
+---
+
 ## 🚀 Next Steps
 - Export analytical tables for SQL analysis
 - Build Power BI dashboards for visualization
