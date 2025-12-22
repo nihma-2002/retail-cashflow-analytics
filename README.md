@@ -31,7 +31,7 @@ This analysis helps identify:
 retail-cashflow-analytics/
 ├── data/                # Dataset
 ├── notebooks/           # Python analysis notebooks
-├── sql/                 # SQL-ready outputs (future)
+├── sql/                 # SQL schema & analysis queries
 ├── screenshots/         # Dashboard screenshots
 └── README.md
 ```
@@ -42,8 +42,8 @@ retail-cashflow-analytics/
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy)
 - Jupyter Notebook
-- SQL (planned)
-- Power BI (planned)
+- SQL (schema & business queries)
+- Power BI (dashboard & insights)
 
 ---
 
@@ -75,9 +75,9 @@ retail-cashflow-analytics/
 ---
 
 ## 🚀 Next Steps
-- Export analytical tables for SQL analysis
-- Build Power BI dashboards for visualization
 - Extend analysis with customer segmentation
+- Add predictive modeling (optional)
+- Build automated workflows / dashboards
 
 ---
 
