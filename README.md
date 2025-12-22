@@ -67,10 +67,10 @@ retail-cashflow-analytics/
 
 ## 📸 Dashboard Preview
 
-![Executive Summary](screenshots/executive_summary.png)
-![Customer Risk](screenshots/customer_risk_table.png)
-![Aging Distribution](screenshots/aging_distribution.png)
-![Key Insights](screenshots/key_insights.png)
+![Executive Summary](executive_summary.png)
+![Customer Risk](customer_risk_table.png)
+![Aging Distribution](aging_distribution.png)
+![Key Insights](key_insights.png)
 
 ---
 
