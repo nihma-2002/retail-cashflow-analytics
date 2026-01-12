@@ -1,4 +1,8 @@
 # 📊 Retail Cashflow Analytics — Order-to-Cash Project
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow)
+
 
 ## 🧠 Project Overview
 This project demonstrates a complete **Order-to-Cash (O2C) analytics workflow** using Python and Jupyter Notebook.
